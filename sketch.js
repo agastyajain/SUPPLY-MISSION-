@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 var helicopterIMG, helicopterSprite, packageSprite, packageIMG;
 var packageBody, ground;
-var number = 5;
+var number = 1;
 var box1;
 
 function preload() {
